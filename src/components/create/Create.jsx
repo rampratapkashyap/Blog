@@ -7,7 +7,7 @@ export const Create = () => {
       <section className='newPost'>
         <div className='container boxItems'>
           <div className='img'>
-            <img src='https://images.pexels.com/photos/6424244/pexels-photo-6424244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='image' class='image-preview' />
+            {/* <img src='https://images.pexels.com/photos/6424244/pexels-photo-6424244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='image' class='image-preview' /> */}
           </div>
           <form>
             <div className='inputfile flexCenter'>
